@@ -1,0 +1,6 @@
+/*以下为密码强度的css样式*/
+.pwdstrength_default{float:left;background:#d6d3d3;width:62px;height:4px;margin-top:5px;_margin-top:0px;margin-left:5px;_height:2px;font-size:0px;}
+.pwdstrength_description{float:left;width:62px;margin-left:5px;text-align:center;color:#b0adad;font-size:12px;line-height:16px;}
+.pwdstrength_weak{float:left;background:#ff3300;width:62px;height:4px;margin-top:5px;margin-left:5px;_margin-top:0px;_height:2px;font-size:0px;}
+.pwdstrength_medium{float:left;background: #099;width:62px;height:4px;margin-top:5px;margin-left:5px;_margin-top:0px;_height:2px;font-size:0px;}
+.pwdstrength_tough{float:left;background: #060;width:62px;height:4px;margin-top:5px;margin-left:5px;_margin-top:0px;_height:2px;font-size:0px;}
